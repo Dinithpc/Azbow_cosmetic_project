@@ -1,0 +1,342 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Red Glossy Lipstik",
+    "product_category": "Face",
+    "product_description": "Load your lips with long lasting and impeccable red colour to fulfill your makeup requirements.",
+    "directions": "HOW TO USE:\n\n1. Exfoliate your lips.\n2. Line your lips with the CCUK Lip definer, then fill them in.\n3. Blot your lips for an extra-matte finish.\n*Please note that actual colours may vary slightly.",
+    "price": "2,500",
+    "in_stock": 150,
+    "image_url": "/product/Designer(19).jpeg"
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Red Glossy Lipstik",
+    "product_category": "Lipstick",
+    "product_description": "Load your lips with long lasting and impeccable red colour to fulfill your makeup requirements.",
+    "directions": "HOW TO USE:\n\n1. Exfoliate your lips.\n2. Line your lips with the CCUK Lip definer, then fill them in.\n3. Blot your lips for an extra-matte finish.\n*Please note that actual colours may vary slightly.",
+    "price": "2,500",
+    "in_stock": 150,
+    "image_url": "/product/Designer(19).jpeg"
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Red Glossy Lipstik",
+    "product_category": "Lips",
+    "product_description": "Load your lips with long lasting and impeccable red colour to fulfill your makeup requirements.",
+    "directions": "HOW TO USE:\n\n1. Exfoliate your lips.\n2. Line your lips with the CCUK Lip definer, then fill them in.\n3. Blot your lips for an extra-matte finish.\n*Please note that actual colours may vary slightly.",
+    "price": "2,500",
+    "in_stock": 150,
+    "image_url": "/product/Designer(19).jpeg"
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Wine Lip Liner",
+    "product_category": "Face",
+    "product_description": "Defines and creates a neat lip outline resulting on full, bold lips.",
+    "directions": "HOW TO USE:\n\nPrime and line lips with lip liner.\nFill in to wear alone, or apply lipstick to complete the look.\nFor an even bolder look, fill in and apply Colour Lipstick on top",
+    "price": "1200",
+    "in_stock": 75,
+    "image_url": "/product/Designer(21).jpeg"
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Wine Lip Liner",
+    "product_category": "Lip Liner",
+    "product_description": "Defines and creates a neat lip outline resulting on full, bold lips.",
+    "directions": "HOW TO USE:\n\nPrime and line lips with lip liner.\nFill in to wear alone, or apply lipstick to complete the look.\nFor an even bolder look, fill in and apply Colour Lipstick on top",
+    "price": "1200",
+    "in_stock": 75,
+    "image_url": "/product/Designer(21).jpeg"
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Wine Lip Liner",
+    "product_category": "Lips",
+    "product_description": "Defines and creates a neat lip outline resulting on full, bold lips.",
+    "directions": "HOW TO USE:\n\nPrime and line lips with lip liner.\nFill in to wear alone, or apply lipstick to complete the look.\nFor an even bolder look, fill in and apply Colour Lipstick on top",
+    "price": "1200",
+    "in_stock": 75,
+    "image_url": "/product/Designer(21).jpeg"
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Damson Lip Liner",
+    "product_category": "Face",
+    "product_description": "Defines and creates a neat lip outline resulting on full, bold lips.",
+    "directions": "HOW TO USE:\n\nPrime and line lips with lip liner.\nFill in to wear alone, or apply lipstick to complete the look.\nFor an even bolder look, fill in and apply Colour Lipstick on top",
+    "price": "1400",
+    "in_stock": 150,
+    "image_url": "/product/Designer(22).jpeg"
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Damson Lip Liner",
+    "product_category": "Lip Liner",
+    "product_description": "Defines and creates a neat lip outline resulting on full, bold lips.",
+    "directions": "HOW TO USE:\n\nPrime and line lips with lip liner.\nFill in to wear alone, or apply lipstick to complete the look.\nFor an even bolder look, fill in and apply Colour Lipstick on top",
+    "price": "1400",
+    "in_stock": 150,
+    "image_url": "/product/Designer(22).jpeg"
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Damson Lip Liner",
+    "product_category": "Lips",
+    "product_description": "Defines and creates a neat lip outline resulting on full, bold lips.",
+    "directions": "HOW TO USE:\n\nPrime and line lips with lip liner.\nFill in to wear alone, or apply lipstick to complete the look.\nFor an even bolder look, fill in and apply Colour Lipstick on top",
+    "price": "1400",
+    "in_stock": 150,
+    "image_url": "/product/Designer(22).jpeg"
+  },
+  {
+    "product_id": "P0010",
+    "product_name": "Glow - Day Creame",
+    "product_category": "Moisturiser",
+    "product_description": "Keeps your skin from being damaged while you go through your everyday tasks",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3250",
+    "in_stock": 225,
+    "image_url": "/product/Designer(24).jpeg"
+  },
+  {
+    "product_id": "P0011",
+    "product_name": "Glow - Day Creame",
+    "product_category": "Skin",
+    "product_description": "Keeps your skin from being damaged while you go through your everyday tasks",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3250",
+    "in_stock": 225,
+    "image_url": "/product/Designer(24).jpeg"
+  },
+  {
+    "product_id": "P0012",
+    "product_name": "Glow - Day Creame",
+    "product_category": "Body",
+    "product_description": "Keeps your skin from being damaged while you go through your everyday tasks",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3250",
+    "in_stock": 225,
+    "image_url": "/product/Designer(24).jpeg"
+  },
+  {
+    "product_id": "P0013",
+    "product_name": "Glow - Day Creame",
+    "product_category": "Face",
+    "product_description": "Keeps your skin from being damaged while you go through your everyday tasks",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3250",
+    "in_stock": 225,
+    "image_url": "/product/Designer(24).jpeg"
+  },
+  {
+    "product_id": "P0014",
+    "product_name": "Radient - Night Creame",
+    "product_category": "Moisturiser",
+    "product_description": "Rejuvinates your skin while you rest and sleep at night",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3000",
+    "in_stock": 160,
+    "image_url": "/product/Designer(25).jpeg"
+  },
+  {
+    "product_id": "P0015",
+    "product_name": "Radient - Night Creame",
+    "product_category": "Skin",
+    "product_description": "Rejuvinates your skin while you rest and sleep at night",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3000",
+    "in_stock": 160,
+    "image_url": "/product/Designer(25).jpeg"
+  },
+  {
+    "product_id": "P0016",
+    "product_name": "Radient - Night Creame",
+    "product_category": "Body",
+    "product_description": "Rejuvinates your skin while you rest and sleep at night",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3000",
+    "in_stock": 160,
+    "image_url": "/product/Designer(25).jpeg"
+  },
+  {
+    "product_id": "P0017",
+    "product_name": "Radient - Night Creame",
+    "product_category": "Face",
+    "product_description": "Rejuvinates your skin while you rest and sleep at night",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "3000",
+    "in_stock": 160,
+    "image_url": "/product/Designer(25).jpeg"
+  },
+  {
+    "product_id": "P0018",
+    "product_name": "Tea Tree Facewash",
+    "product_category": "Skin",
+    "product_description": "Cleans the dirt and oil from your face and gives a bright healthy look",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "1350",
+    "in_stock": 500,
+    "image_url": "/product/Designer(26).jpeg"
+  },
+  {
+    "product_id": "P0019",
+    "product_name": "Tea Tree Facewash",
+    "product_category": "Face",
+    "product_description": "Cleans the dirt and oil from your face and gives a bright healthy look",
+    "directions": "HOW TO USE:\n\nCleanse area to apply and apply cream",
+    "price": "1350",
+    "in_stock": 500,
+    "image_url": "/product/Designer(26).jpeg"
+  },
+  {
+    "product_id": "P0020",
+    "product_name": "Tea Tree Facewash",
+    "product_category": "Facewash",
+    "product_description": "Cleans the dirt and oil from your face and gives a bright healthy look",
+    "directions": "HOW TO USE:\n\nWash face with clean water and apply product on face. Finally rinse with clean water",
+    "price": "1350",
+    "in_stock": 500,
+    "image_url": "/product/Designer(26).jpeg"
+  },
+  {
+    "product_id": "P0021",
+    "product_name": "Kohomba Facewash",
+    "product_category": "Skin",
+    "product_description": "For pimple prone skin. Fights germs and cleans your face",
+    "directions": "HOW TO USE:\n\nWash face with clean water and apply product on face. Finally rinse with clean water",
+    "price": "1550",
+    "in_stock": 500,
+    "image_url": "/product/Designer(27).jpeg"
+  },
+  {
+    "product_id": "P0022",
+    "product_name": "Kohomba Facewash",
+    "product_category": "Face",
+    "product_description": "For pimple prone skin. Fights germs and cleans your face",
+    "directions": "HOW TO USE:\n\nWash face with clean water and apply product on face. Finally rinse with clean water",
+    "price": "1550",
+    "in_stock": 500,
+    "image_url": "/product/Designer(27).jpeg"
+  },
+  {
+    "product_id": "P0023",
+    "product_name": "Kohomba Facewash",
+    "product_category": "Facewash",
+    "product_description": "For pimple prone skin. Fights germs and cleans your face",
+    "directions": "HOW TO USE:\n\nWash face with clean water and apply product on face. Finally rinse with clean water",
+    "price": "1550",
+    "in_stock": 0,
+    "image_url": "/product/Designer(27).jpeg"
+  },
+  {
+    "product_id": "P0024",
+    "product_name": "Aloe Facewash",
+    "product_category": "Skin",
+    "product_description": "Removes dead skin and effective on dry skin types",
+    "directions": "HOW TO USE:\n\nWash face with clean water and apply product on face. Finally rinse with clean water",
+    "price": "1200",
+    "in_stock": 500,
+    "image_url": "/product/Designer(28).jpeg"
+  },
+  {
+    "product_id": "P0025",
+    "product_name": "Aloe Facewash",
+    "product_category": "Face",
+    "product_description": "Removes dead skin and effective on dry skin types",
+    "directions": "HOW TO USE:\n\nWash face with clean water and apply product on face. Finally rinse with clean water",
+    "price": "1200",
+    "in_stock": 500,
+    "image_url": "/product/Designer(28).jpeg"
+  },
+  {
+    "product_id": "P0026",
+    "product_name": "Aloe Facewash",
+    "product_category": "Facewash",
+    "product_description": "Removes dead skin and effective on dry skin types",
+    "directions": "HOW TO USE:\n\nWash face with clean water and apply product on face. Finally rinse with clean water",
+    "price": "1200",
+    "in_stock": 500,
+    "image_url": "/product/Designer(28).jpeg"
+  },
+  {
+    "product_id": "P0027",
+    "product_name": "Tumeric Handwash",
+    "product_category": "Skin",
+    "product_description": "Effectifly removes dirt and germs from skin",
+    "directions": "Wash hands using one or two drops of the handwash whenever needed.",
+    "price": "600",
+    "in_stock": 150,
+    "image_url": "/product/Designer(29).jpeg"
+  },
+  {
+    "product_id": "P0028",
+    "product_name": "Tumeric Handwash",
+    "product_category": "Hand",
+    "product_description": "Effectifly removes dirt and germs from skin",
+    "directions": "Wash hands using one or two drops of the handwash whenever needed.",
+    "price": "600",
+    "in_stock": 150,
+    "image_url": "/product/Designer(29).jpeg"
+  },
+  {
+    "product_id": "P0029",
+    "product_name": "Jasmin Bodywash",
+    "product_category": "Skin",
+    "product_description": "Makes you feel like you are in a field of jasmin. Feeling fresh and amazing",
+    "directions": "Wash body with clean water and apply. Finally rinse with clean water",
+    "price": "1450",
+    "in_stock": 340,
+    "image_url": "/product/Designer(30).jpeg"
+  },
+  {
+    "product_id": "P0030",
+    "product_name": "Jasmin Bodywash",
+    "product_category": "Body",
+    "product_description": "Makes you feel like you are in a field of jasmin. Feeling fresh and amazing",
+    "directions": "Wash body with clean water and apply. Finally rinse with clean water",
+    "price": "1450",
+    "in_stock": 340,
+    "image_url": "/product/Designer(30).jpeg"
+  },
+  {
+    "product_id": "P0031",
+    "product_name": "Mint Bodywash",
+    "product_category": "Skin",
+    "product_description": "Feel mint freshness all through your body and take the day with mint filled energy",
+    "directions": "Wash body with clean water and apply. Finally rinse with clean water",
+    "price": "1550",
+    "in_stock": 200,
+    "image_url": "/product/Designer(31).jpeg"
+  },
+  {
+    "product_id": "P0032",
+    "product_name": "Mint Bodywash",
+    "product_category": "Body",
+    "product_description": "Feel mint freshness all through your body and take the day with mint filled energy",
+    "directions": "Wash body with clean water and apply. Finally rinse with clean water",
+    "price": "1550",
+    "in_stock": 200,
+    "image_url": "/product/Designer(31).jpeg"
+  },
+  {
+    "product_id": "P0033",
+    "product_name": "Hair Repair Conditioner",
+    "product_category": "Hair",
+    "product_description": "Repair your damaged and dry hair with this amazing solution",
+    "directions": "Wash hair with clean water and apply product. Rinse with clean cold water",
+    "price": "1499",
+    "in_stock": 320,
+    "image_url": "/product/Designer(33).jpeg"
+  },
+  {
+    "product_id": "P0034",
+    "product_name": "Hair Repair Shampoo",
+    "product_category": "Hair",
+    "product_description": "Repair your damaged and dry hair with this amazing solution",
+    "directions": "Wash hair with clean water and apply product. Rinse with clean cold water",
+    "price": "1899",
+    "in_stock": 310,
+    "image_url": "/product/Designer(33).jpeg"
+  }
+ ]
